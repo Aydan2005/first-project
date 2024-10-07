@@ -78,7 +78,7 @@ p{
     grid-template-areas: 
     "textcon picture";
  margin-top: 2%;
-margin-bottom: 3%px ;
+margin-bottom: 3% ;
 }
 .blue-text{
     box-sizing: border-box;
@@ -185,7 +185,7 @@ h3{
                font-size: 16px;
            }
 }
-@media screen and (min-width: 1184x) and (max-width: 1289px) {
+@media screen and (min-width: 1184px) and (max-width: 1289px) {
     .p1,.p2,.p3{
      font-size: 18px;   
     }
