@@ -1225,7 +1225,7 @@ p.information-section5{
     .course-section5{
         width: 50%;
         height: 500px;
-    }
+    }}
 .block1-section6 {
     background: #9DC9C8;
     height: 780px;
@@ -1329,7 +1329,7 @@ p.information-section5{
 .info-footer {
     margin-top: -1px; 
     margin-left: 750px; 
-}}
+}
 @media screen and (min-width: 1280px) {
     .start-section6 {
         font-size: 55px;
